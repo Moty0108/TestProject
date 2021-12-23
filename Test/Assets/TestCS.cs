@@ -21,8 +21,5 @@ public class TestCS : MonoBehaviour
         Debug.Log("Hello!");
     }
 
-    public void Bye()
-    {
-        Debug.Log("Bye");
-    }
+    
 }
