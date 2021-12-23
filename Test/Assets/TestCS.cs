@@ -25,4 +25,9 @@ public class TestCS : MonoBehaviour
     {
         Debug.Log("Bye!");
     }
+
+    public void Yes()
+    {
+
+    }
 }
