@@ -26,7 +26,7 @@ public class TestCS : MonoBehaviour
         Debug.Log("Bye!");
     }
 
-    public void Yes()
+    public void No()
     {
 
     }
